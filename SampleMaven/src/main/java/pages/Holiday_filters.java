@@ -341,4 +341,9 @@ public class Holiday_filters extends Holidaydriver
     		driver.switchTo().window(lst.get(1));
     	}
     }
+    
+    public void testing()
+    {
+    	System.out.println("Branch testing by adding a method");
+    }
 }
